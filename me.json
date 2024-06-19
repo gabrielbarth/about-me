@@ -5,5 +5,22 @@
   "name": "Gabriel Barth",
   "github": "gabrielbarth",
   "companyName": "@stone-ton",
-  "companyWebsite": "https://www.ton.com.br/"
+  "companyWebsite": "https://www.ton.com.br/",
+  "contactAssets": [
+    {
+      "id": "linkedin",
+      "actionUrl": "https://www.linkedin.com/in/gabrielbarth",
+      "svgUrl": "https://raw.githubusercontent.com/gabrielbarth/about-me/master/assets/linkedin.svg"
+    },
+    {
+      "id": "github",
+      "actionUrl": "http://github.com/gabrielbarth",
+      "svgUrl": "https://raw.githubusercontent.com/gabrielbarth/about-me/master/assets/github.svg"
+    },
+    {
+      "id": "medium",
+      "actionUrl": "https://medium.com/@gabriel-barth",
+      "svgUrl": "https://raw.githubusercontent.com/gabrielbarth/about-me/master/assets/medium.svg"
+    }
+  ]
 }
