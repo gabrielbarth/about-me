@@ -2,6 +2,7 @@
   "about": "hello world",
   "tabIconUrl": "https://raw.githubusercontent.com/gabrielbarth/about-me/master/assets/fav-icon.png",
   "profileUrl": "https://avatars.githubusercontent.com/u/42456106?v=4",
+  "resumeUrl": "https://docs.google.com/document/d/1epaK0p12dey__uLyrN6ur-m9CAaZWPcNFbYe1RAnelg/edit?usp=sharing",
   "presentationText": "I'm a sofware engineer based in Brazil, with a focus on mobile development: React Native, Swift, and Kotlin.\n\nI'm passionate about building solutions that bring value and solve real-world problems for people 🙂\n\nI'm currently working at @stone-ton using React Native and Kotlin Multiplaform.",
   "name": "Gabriel Barth",
   "github": "gabrielbarth",
