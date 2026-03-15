@@ -3,7 +3,7 @@
   "tabIconUrl": "https://raw.githubusercontent.com/gabrielbarth/about-me/master/assets/fav-icon.png",
   "profileUrl": "https://avatars.githubusercontent.com/u/42456106?v=4",
   "resumeUrl": "https://docs.google.com/document/d/1epaK0p12dey__uLyrN6ur-m9CAaZWPcNFbYe1RAnelg/edit?usp=sharing",
-  "presentationText": "I'm a software engineer based in Brazil, focused on mobile development with React Native and Kotlin Multiplatform.\n\nI care about building reliable, well-architected products — from the first line of code to production monitoring.\n\nCurrently at @stone, shipping features used by millions of users.",
+  "presentationText": "I'm a senior software engineer based in Brazil, focused on mobile development with React Native and Kotlin Multiplatform.\n\nI care about building reliable, well-architected products — from the first line of code to production monitoring.\n\nCurrently at @stone, shipping features used by millions of users.",
   "name": "Gabriel Barth",
   "github": "gabrielbarth",
   "company": {
@@ -26,5 +26,6 @@
       "actionUrl": "https://medium.com/@gabriel-barth",
       "svgUrl": "https://raw.githubusercontent.com/gabrielbarth/about-me/master/assets/medium.svg"
     }
-  ]
+  ],
+  "cvUrl": "https://raw.githubusercontent.com/gabrielbarth/about-me/master/assets/GabrielBarth_Resume.pdf"
 }
